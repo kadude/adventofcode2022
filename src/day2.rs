@@ -1,6 +1,3 @@
-use std::fs;
-use std::io::stderr;
-
 use crate::helper;
 
 const WIN_POINTS: u8 = 6;
